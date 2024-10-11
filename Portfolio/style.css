@@ -1,0 +1,29 @@
+body{
+    background-color: #F9F7F7;
+    padding: 0;
+    margin: 0;
+}
+#encabezado{
+    text-align: center;
+    padding-top:80px ;
+    background-image: url(./img/fondo-seccion-principal.jpg);
+    height: 500px;
+    color: white;
+}
+#servicios {
+    background-color: #aa6f73;
+    color: white;
+}
+#portfolio {
+    background-color: #aa6f73;
+    color: white;
+}
+.lista {
+    margin-top: 100px;
+}
+.serv{
+    font-size: 150px;
+}
+.redes {
+    font-size: 30px;
+}
